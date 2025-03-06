@@ -9,7 +9,7 @@ __title__ = "WordWiz"
 __author__ = "devs_des1re"
 __license__ = "MIT"
 __copyright__ = "2025 devs_des1re"
-__version__ = "0.0.4"
+__version__ = "0.0.1"
 
 from .synonyms import get_synonyms
 from .antonyms import get_antonyms
