@@ -18,7 +18,7 @@ classifiers = [
 
 setup(
     name="WordWiz",
-    version="0.0.1",
+    version="0.0.2",
     description="A word API for definitions, synonyms and antonyms.",
     long_description=readme_read(),
     long_description_content_type="text/markdown",
