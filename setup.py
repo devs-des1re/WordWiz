@@ -23,6 +23,10 @@ setup(
     long_description=readme_read(),
     long_description_content_type="text/markdown",
     url="https://github.com/devs-des1re/WordWiz/",
+    project_urls={
+        "Bug Reporter": "https://github.com/devs-des1re/WordWiz/issues",
+        "Repository": "https://github.com/devs-des1re/WordWiz"
+    },
     author="devs_des1re",
     author_email="arjunbrij8811@gmail.com",
     license="MIT",
